@@ -16,6 +16,7 @@ body {
 }
 
 #app {
+  height: 100%;
   color: white;
   /*max-width: 300px;*/
   /*padding: 60px;*/
@@ -41,7 +42,7 @@ select {
   background: transparent;
   color: #b1afb8;
   font-size: 18px;
-  margin: -23px auto;
+  margin: -35px auto;
   border: 1px solid #4f4d53;
   display: table;
   line-height: 20px;
